@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\bin\Debug\net6.0\Tasl012.exe
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\bin\Debug\net6.0\Tasl012.deps.json
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\bin\Debug\net6.0\Tasl012.runtimeconfig.json
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\bin\Debug\net6.0\Tasl012.dll
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\bin\Debug\net6.0\Tasl012.pdb
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.dll
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\refint\Tasl012.dll
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.pdb
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\Tasl012.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\Tasl012\obj\Debug\net6.0\ref\Tasl012.dll
