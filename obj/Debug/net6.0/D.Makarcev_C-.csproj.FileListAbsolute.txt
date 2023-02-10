@@ -1,0 +1,5 @@
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\obj\Debug\net6.0\D.Makarcev_C-.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\obj\Debug\net6.0\D.Makarcev_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\obj\Debug\net6.0\D.Makarcev_C-.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\obj\Debug\net6.0\D.Makarcev_C-.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GIT\Test_stud\D.Makarcev_C-\obj\Debug\net6.0\D.Makarcev_C-.csproj.CoreCompileInputs.cache

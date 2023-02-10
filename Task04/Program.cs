@@ -56,7 +56,7 @@ if (n % 161 == 0)
     Console.WriteLine("yes");
 else
     Console.WriteLine("no");
-    */
+    
 
 
     Console.Clear();
@@ -68,3 +68,6 @@ if (n * n == m || m * m == n)
     Console.WriteLine("yes");
 else
     Console.WriteLine("no");
+    */
+
+  
